@@ -9,7 +9,7 @@ This approach provides **more freedom and flexibility** for users, especially us
 
 ---
 
- Project3.ipynb has my attempt of simulating data through prompting LLMs, but I quickly realised simulating data without domain knowledge won't allow for meaningfull machine learning. Would love to continue this project on access to representative/actual data.
+ Project3.ipynb has my attempt of simulating data through prompting LLMs even after refering existing literature and real-world constraints and complexities, but I quickly realised simulating data without domain knowledge won't allow for meaningfull machine learning. Would love to continue this project on access to representative/actual data.
 
  Although tremor detection data might be available, but there is a lack of Stimulation data for further stage of modelling.
 
