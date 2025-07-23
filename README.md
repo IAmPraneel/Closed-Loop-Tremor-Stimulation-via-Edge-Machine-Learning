@@ -9,6 +9,8 @@ This approach provides **more freedom and flexibility** for users, especially us
 
 ---
 
+## Project3.ipynb has my attempt of simulating data, but I quickly realised simulating data without domain knowledge won't allow for meaningfull machine learning. Would love to continue this project on access to representative/actual data.
+
 ## Tremor Detection and Stimulation
 
 ### Detection Stage
